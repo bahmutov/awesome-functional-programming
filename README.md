@@ -521,6 +521,7 @@
 * [Монады для барабанщиков](http://www.slideshare.net/cblpsu/ss-60053562)
 * [Building Functional Islands by Mark Jones](https://speakerdeck.com/thisismarkup/building-functional-islands)
 * [Reactive UIs with Halogen](https://docs.google.com/presentation/d/1uwKxJzNx8pBL2QCUKYy2mgkEbrCdEjKbYOj3mJ4nyEo/edit#slide=id.g775150948_0_41)
+* [Fun JavaScript Workshop](https://slides.com/bahmutov/fun-javascript-workshop)
 
 ---
 
